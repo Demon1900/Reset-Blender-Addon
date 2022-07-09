@@ -1,5 +1,5 @@
 # Reset-Blender-Addon
-This is Add-on for Blender. It will help with resetting your location scale, and rotation
+This is Add-on for Blender. It will help with resetting your location scale, and rotation.
 
 To get the addon download RESET.zip and don't unzip the file
 
